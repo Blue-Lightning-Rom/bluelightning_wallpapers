@@ -1,7 +1,7 @@
 <resources>
 
-    <string name="app_name">BL Wallpapers</string>
-    <string name="title_activity_wallpaper">BlueLightning Papers</string>
+    <string name="app_name">Nexus Wallpapers</string>
+    <string name="title_activity_wallpaper">Nexus Papers</string>
     <string name="back">Previous</string>
     <string name="next">Next</string>
     <string name="page">Page: </string>
